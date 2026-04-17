@@ -1,0 +1,27 @@
+# SafeGear AI - Real-Time Safety Compliance Detection System
+# Core Dependencies
+
+# YOLOv8 and Computer Vision
+ultralytics>=8.0.200
+opencv-python-headless>=4.8.0
+supervision>=0.18.0
+
+# Streamlit Web App
+streamlit>=1.28.0
+streamlit-webrtc>=0.47.0
+
+# Data Processing & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+
+# Utilities
+tqdm>=4.65.0
+pathlib>=1.0.1
+python-dateutil>=2.8.2
+
+# Optional: For GPU acceleration (if CUDA available)
+# torch>=2.0.0
+# torchvision>=0.15.0
