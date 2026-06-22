@@ -243,21 +243,6 @@ safear-ai/
 
 ---
 
-## 💼 Resume Bullet Points (Copy-Paste Ready)
-
-> **Copy these directly to your AIML Engineer resume:**
-
-- **Developed SafeGear AI**, a real-time safety compliance detection system using YOLOv8/v11 and OpenCV, achieving 20-25 FPS on CPU with 88-92% detection accuracy for PPE (Personal Protective Equipment) classification
-
-- **Engineered a production-ready Streamlit dashboard** with real-time video annotation, violation logging, and compliance analytics, supporting both uploaded videos and live webcam feeds for construction site and road safety monitoring
-
-- **Implemented context-aware violation detection** using spatial proximity algorithms to associate safety gear (helmets, vests, masks) with detected persons, enabling intelligent compliance checking with severity classification
-
-- **Optimized computer vision pipeline** for CPU inference through frame resizing, selective processing, and memory-efficient video streaming, reducing processing time by 40% while maintaining detection precision
-
-- **Designed comprehensive reporting system** with CSV export, annotated video downloads, and interactive Plotly visualizations (compliance pie charts, violation bar charts) for safety audit documentation
-
----
 
 ## 🔧 Advanced Configuration
 
