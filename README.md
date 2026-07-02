@@ -214,6 +214,8 @@ safear-ai/
 └── outputs/                # Generated reports (created at runtime)
     ├── annotated_videos/
     └── violation_logs/
+
+    
 ---
 
 
