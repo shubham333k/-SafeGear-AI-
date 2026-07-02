@@ -202,20 +202,21 @@ SafeGear AI Architecture
 ---
 
 ## 📁 Project Structure
-
--SafeGear-AI-/
+'''
+safear-ai/
 ├── app.py                 # Main Streamlit application
-├── utils.py                # Detection & utility functions
-├── config.py                # Configuration constants
-├── quickstart.py            # Quick-start / demo runner script
-├── setup_models.py          # Downloads/sets up YOLO model weights
-├── test_detector.py         # Unit tests for the detector
-├── training_guide.md        # Guide for training custom models
-├── requirements.txt         # Python dependencies
-├── assets/                  # Demo images and banners
-└── .gitignore
-
+├── utils.py               # Detection & utility functions
+├── config.py              # Configuration constants
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
+├── models/                # YOLO model weights (auto-downloaded)
+├── assets/                # Demo images and banners
+└── outputs/                # Generated reports (created at runtime)
+    ├── annotated_videos/
+    └── violation_logs/
+'''
 ---
+
 
 ## 🎯 Use Cases
 
