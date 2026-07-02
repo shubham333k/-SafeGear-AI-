@@ -203,7 +203,7 @@ SafeGear AI Architecture
 
 ## 📁 Project Structure
 
-'''
+```
 
 safear-ai/
 ├── app.py                 # Main Streamlit application
@@ -217,7 +217,7 @@ safear-ai/
     ├── annotated_videos/
     └── violation_logs/
 
-'''
+```
     
 ---
 
