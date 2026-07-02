@@ -70,8 +70,8 @@ SafeGear AI is a production-ready computer vision application that performs real
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/safear-ai.git
-cd safear-ai
+git clone https://github.com/shubham333k/-SafeGear-AI-.git
+cd -SafeGear-AI-
 
 # Create virtual environment
 python -m venv venv
@@ -333,7 +333,6 @@ For questions or collaboration opportunities:
 
 - **LinkedIn**: [https://www.linkedin.com/in/shubham-kumar-565040253/]
 - **Email**: shubhamjhanjhot333k@gmail.com
-- **Portfolio**: [Your Portfolio Website]
 
 ---
 
