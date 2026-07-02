@@ -202,7 +202,7 @@ SafeGear AI Architecture
 ---
 
 ## 📁 Project Structure
-'''
+
 safear-ai/
 ├── app.py                 # Main Streamlit application
 ├── utils.py               # Detection & utility functions
@@ -214,7 +214,6 @@ safear-ai/
 └── outputs/                # Generated reports (created at runtime)
     ├── annotated_videos/
     └── violation_logs/
-'''
 ---
 
 
